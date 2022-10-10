@@ -2,7 +2,7 @@
 
 -  I’m currently learning SQL, C++ and Java
 - My current project is: Solitaire in C++
-- I am currently pursuing my BS in Computer Science
+- I am currently pursuing my BS in Computer Science at WGU
 - Seeking an internship position in software development
 
 <!---
