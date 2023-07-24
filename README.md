@@ -1,9 +1,9 @@
 -  Hi, I’m @Nellie-D!
 
--  I’m currently learning SQL, C++ and Java
-- My current project is: Solitaire in C++
+-  I’m currently learning SQL, Java, and the AWS Cloud
+- My current projects: Solitaire in C++ and Appointment Scheduler in Java/SQL
 - I am currently pursuing my BS in Computer Science at WGU
-- Seeking an internship position in software development or information technology
+- Interning at AWS as an Enterprise Account Engineer Intern!
 
 <!---
 Nellie-D/Nellie-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
